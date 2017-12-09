@@ -1,6 +1,8 @@
 # Arithmetic & Geometric Algorithm
 
-### Algorithm to calculate Arithmetic and Geometric Progression
+#### Algorithm to calculate Arithmetic and Geometric Progression
+
+
 
 
 
