@@ -4,5 +4,5 @@ The answer to this question is obvious. One out of every five numbers is divisib
 
 ![](https://i.imgur.com/acvIzhu.png)
 
-The equation above calculates the probability of a random integer being divisible by 5. In this equation ![](https://i.imgur.com/FF8PnVM.png) n is 5 and its saying 5 to infinity   
+The equation above calculates the probability of a random integer being divisible by 5. In this part ![](https://i.imgur.com/FF8PnVM.png) n is a representation of any number (but we'll say it's 5). ![](https://i.imgur.com/aZspNVM.png) means limit and this ![](https://i.imgur.com/PLA3gdX.png) means q (or 5) to infinity. So the limit is infinity,          
 
