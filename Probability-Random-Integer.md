@@ -4,5 +4,5 @@ The answer to this question is obvious. One out of every five numbers is divisib
 
 ![](https://i.imgur.com/acvIzhu.png)
 
-The equation above calculates the probability of a random integer being divisible by 5. ![](https://i.imgur.com/EGWXRdV.png) represents the number you input (but we'll say it's 5), and ![](https://i.imgur.com/aZspNVM.png) means limit. So ![](https://i.imgur.com/PLA3gdX.png) is your number (![](https://i.imgur.com/EGWXRdV.png)) . ![](https://i.imgur.com/vzfoBmo.png) is a boolean function (true or false) , its job is to determine whether a number satisfies the equation. 
+The equation above calculates the probability of a random integer being divisible by 5. ![](https://i.imgur.com/EGWXRdV.png) represents the number you input (but we'll say it's 5), and ![](https://i.imgur.com/aZspNVM.png) means limit. So ![](https://i.imgur.com/PLA3gdX.png) is setting the equations range between ![](https://i.imgur.com/EGWXRdV.png) (your number), and ∞. ![](https://i.imgur.com/vzfoBmo.png) is a boolean function (true or false) , its job is to determine whether a number satisfies the equation.  
 
