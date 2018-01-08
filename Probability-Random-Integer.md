@@ -12,10 +12,12 @@ Below explains the each peice:
 
 - ![](https://i.imgur.com/EGWXRdV.png) represents the number you input.
 
-- ![](https://i.imgur.com/aZspNVM.png)  represents limit. 
+- ![](https://i.imgur.com/aZspNVM.png)   represents limit. 
 
 - ![](https://i.imgur.com/PLA3gdX.png) is setting the equations range between ![](https://i.imgur.com/EGWXRdV.png) (your number), and ![](https://i.imgur.com/cFyBUfV.png) (Infinity). 
 
 - ![](https://i.imgur.com/vzfoBmo.png) is a boolean function (true or false) , its job is to determine whether a number satisfies the equation. 
 
-- ![](https://i.imgur.com/uI7KTCN.png) is 
+- In this part ![](https://i.imgur.com/uI7KTCN.png) determines whether ![](https://i.imgur.com/EGWXRdV.png) is valid using ![](https://i.imgur.com/vzfoBmo.png).
+
+- ![](https://i.imgur.com/0y21hPh.png) after determining the numbers combatibility it divides ![](https://i.imgur.com/EGWXRdV.png) by itself infinitely. 
