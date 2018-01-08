@@ -16,4 +16,6 @@ Below explains the each peice:
 
 - ![](https://i.imgur.com/PLA3gdX.png) is setting the equations range between ![](https://i.imgur.com/EGWXRdV.png) (your number), and ![](https://i.imgur.com/cFyBUfV.png) (Infinity). 
 
-- ![](https://i.imgur.com/vzfoBmo.png) is a boolean function (true or false) , its job is to determine whether a number satisfies the equation.
+- ![](https://i.imgur.com/vzfoBmo.png) is a boolean function (true or false) , its job is to determine whether a number satisfies the equation. 
+
+- ![](https://i.imgur.com/uI7KTCN.png) is 
