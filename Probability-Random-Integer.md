@@ -8,7 +8,9 @@ The equation below calculates the probability of a random integer being divisibl
 ![](https://i.imgur.com/acvIzhu.png)
 Below explains the each peice:
 
-- ![](https://i.imgur.com/EGWXRdV.png) represents the number you input, and ![](https://i.imgur.com/aZspNVM.png) means limit. 
+- ![](https://i.imgur.com/EGWXRdV.png) represents the number you input.
+
+- ![](https://i.imgur.com/aZspNVM.png) means limit. 
 
 - ![](https://i.imgur.com/PLA3gdX.png) is setting the equations range between ![](https://i.imgur.com/EGWXRdV.png) (your number), and ![](https://i.imgur.com/cFyBUfV.png) (Infinity). 
 
