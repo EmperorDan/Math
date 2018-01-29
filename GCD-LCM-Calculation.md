@@ -4,8 +4,8 @@ Divisors are numbers that can be divided into a number without a remainder. So h
 
 ## An example:
 
-### 12|1,2,3,4,(6),12.
-### 18|1,2,3,(6),9,18.
+#### 12|1,2,3,4,(6),12.
+#### 18|1,2,3,(6),9,18.
 
 Above are the numbers that are divisible by 12 and 18. 6 is the highest shared number which makes it the highest common divisor.
 
