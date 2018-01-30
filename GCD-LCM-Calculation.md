@@ -35,5 +35,5 @@ To start we need to note down the multiples of your given pair. After doing that
 ####       2*3*3=18
 
 #### You then solve the equation to get your LCM
-#### 2*2*2*2*3*3= ### 144
+#### 2*2*2*2*3*3= 144
 
