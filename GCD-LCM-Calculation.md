@@ -18,17 +18,22 @@ To start we need to note down the multiples of your given pair. After doing that
 ## Example:
 
 #### The multiples are:
-#### 18| 1x18, 2x9, 3x6. 
-#### 16| 1x16, 2x8, 4x4.
+#### 18| 1*18, 2*9, 3*6. 
+#### 16| 1*16, 2*8, 4*4.
 
 #### You then take find the common multiple
-#### 18| 2x9
-#### 16| 2x8
+#### 18| 2*9
+#### 16| 2*8
 
 #### The next thing to do is break these equations down to their lowest form
-#### 18| 2x3x3
-#### 16| 2x2x2x2
+#### 18| 2*3*3
+#### 16| 2*2*2*2
 
-You then combine the two making another equation. This one must only use numbers nessarary to make both  
+#### You then combine the two making another equation. This one must only use numbers necessary to multiply to the two given numbers
+#### 2*2*2*2*3*3
+#### 2*2*2*2=16 (The extra two is discarded as it is not necessary for the equation
+####       2*3*3=18
 
+#### You then solve the equation to get your LCM
+#### 2*2*2*2*3*3= ### 144
 
