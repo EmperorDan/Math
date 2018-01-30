@@ -4,7 +4,7 @@ Divisors are numbers that can be divided into a number without a remainder. So h
 
 ## Example:
 
-Below are the numbers that are divisible by 12 and 18. 6 is the highest shared number (divisor) which makes it the highest common divisor.
+#### Below are the numbers that are divisible by 12 and 18. 6 is the highest shared number (divisor) which makes it the highest common divisor.
 
 #### 12|1,2,3,4,(6),12.
 #### 18|1,2,3,(6),9,18.
@@ -18,22 +18,22 @@ To start we need to note down the multiples of your given pair. After doing that
 ## Example:
 
 #### The multiples are:
-#### 18| 1*18, 2*9, 3*6. 
-#### 16| 1*16, 2*8, 4*4.
+#### 18| 1x18, 2x9, 3x6. 
+#### 16| 1x16, 2x8, 4x4.
 
 #### You then take find the common multiple
-#### 18| 2*9
-#### 16| 2*8
+#### 18| 2x9
+#### 16| 2x8
 
 #### The next thing to do is break these equations down to their lowest form
-#### 18| 2*3*3
-#### 16| 2*2*2*2
+#### 18| 2x3x3
+#### 16| 2x2x2x2
 
 #### You then combine the two making another equation. This one must only use numbers necessary to multiply to the two given numbers
-#### 2*2*2*2*3*3
-#### 2*2*2*2=16 (The extra two is discarded as it is not necessary for the equation
-####       2*3*3=18
+#### 2x2x2x2x3x3
+#### 2x2x2x2=16 (The extra two is discarded as it is not necessary for the equation
+####       2x3x3=18
 
 #### You then solve the equation to get your LCM
-#### 2*2*2*2*3*3= 144
+#### 2x2x2x2x3x3= 144
 
