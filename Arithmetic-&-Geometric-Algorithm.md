@@ -24,3 +24,35 @@ The letters represent the following:
 #### a=2
 #### r=3
 
+## Formulae
+#include <iostream>
+#include <cstdlib>
+
+using namespace std;
+
+int main () {
+int input;
+cout<< "type a number: \n";
+cin >> input; 
+int loop = 0;
+
+do{
+int geometric;
+input * input;
+int arithmetic = input + input;
+
+//adds 1 to loop variable
+loop++;
+
+cout<<"geometric value:";
+  cout<<geometric;
+  cout<<"\n";
+  cout<<"arithmetic value:";
+  cout<<arithmetic;
+} 
+
+while( loop < 1 );
+return (0);
+
+ 
+}
