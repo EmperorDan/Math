@@ -3,6 +3,8 @@ A vector is a quantity or phenomenon that has two independent properties: magnit
 
 ![](https://i.imgur.com/ktETRYh.png)
 
+# Code that draws simple shapes
+
 ```html
 <html>
 <body>
