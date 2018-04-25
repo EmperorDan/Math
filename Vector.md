@@ -1,3 +1,9 @@
+# Vectors
+A vector is a quantity or phenomenon that has two independent properties: magnitudeand direction. The term also denotes the mathematical or geometrical representation of such a quantity.
+
+![](https://i.imgur.com/ktETRYh.png)
+
+''' HTML
 <html>
 <body>
 
@@ -101,3 +107,4 @@ function shape(){
 
 </body>
 </html>
+''' HTML
