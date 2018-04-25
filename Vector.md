@@ -3,7 +3,7 @@ A vector is a quantity or phenomenon that has two independent properties: magnit
 
 ![](https://i.imgur.com/ktETRYh.png)
 
-''' HTML
+'''HTML
 <html>
 <body>
 
@@ -107,4 +107,4 @@ function shape(){
 
 </body>
 </html>
-''' HTML
+'''HTML
