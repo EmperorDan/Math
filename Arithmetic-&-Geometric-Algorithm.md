@@ -16,10 +16,10 @@ Look at this sequence of numbers below:
 #### 2, 6, 18, 54, ...
 As you may have noticed the numbers are multiplying by three sequentially. Below is the arithmetic behind the sequence.
 #### 2,      6,        18,        54, 
-#### 2,    2 × 3,    2 × 32,    2 × 33
+#### ![](https://i.imgur.com/dYg7qHo.png)
 Like in Arithmetic Progression you have a first term which here is '2' here. Where it differs is that instead of a common difference, there is a common ratio. Are common ratio for this sequence is '3' you find it using the same thought process as with finding the common difference.
 The common way of representing this information above is the use of algebra. Below is how this process would translate:
-#### a, ar, ar2, ar3
+#### ![](https://i.imgur.com/WGp8lbH.png)
 The letters represent the following:
 #### a=2
 #### r=3
