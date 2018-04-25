@@ -25,6 +25,7 @@ The letters represent the following:
 #### r=3
 
 ## Formulae
+```html
 #include <iostream>
 #include <cstdlib>
 
@@ -56,3 +57,4 @@ return (0);
 
  
 }
+```
