@@ -1,5 +1,5 @@
 # Vectors
-A vector is a quantity or phenomenon that has two independent properties: magnitudeand direction. The term also denotes the mathematical or geometrical representation of such a quantity.
+A vector is a phenomenon or quantity. Its properties are magnitude and direction.
 
 ![](https://i.imgur.com/ktETRYh.png)
 
