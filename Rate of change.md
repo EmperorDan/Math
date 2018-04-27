@@ -2,7 +2,7 @@
 
 Rate of change is common place in society. Examples of this include Mile per gallon, Mile per hour, cost per kilowatt, ect. Miles per gallon is calculated by dividing miles travelled by the amount of gallons used. So now we know what rate of change is we now look at its translation in algebra. 
 
-# Average rate of change function
+## Average rate of change function
 ![](https://i.imgur.com/3iYZiVO.png)
 
 
