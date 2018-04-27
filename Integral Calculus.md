@@ -15,9 +15,13 @@ Main formulae:
 ![](https://i.imgur.com/AP85cOF.png)
 
 
-![](https://i.imgur.com/LTSEk3G.png)   
+
 - '∫' is the simbol used to represent intergration.
 - 'a/b' this is to differentiate the two sides involved in the calculation
-- 'dx' represents the differential of the variable 'x', aswell as indicating that 'x' is the variable as intergration.
+- 'dx' represents the differential of the variable 'x', aswell as indicating that 'x' is the variable of intergration.
+
+
+![](https://i.imgur.com/LTSEk3G.png)   
+
 
 ![](https://i.imgur.com/6uDhBrr.png)
