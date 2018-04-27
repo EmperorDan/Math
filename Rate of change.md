@@ -5,14 +5,18 @@ Rate of change is common place in society. Examples of this include Mile per gal
 # Average rate of change function
 ![](https://i.imgur.com/3iYZiVO.png)
 
-<code>
+    <code>
 Examples:
-F(x) = x2 \n
-  Rate of change from 1 to 3 \n
-  (32  -12) / (3 -1) = (9 –1) / (3 –1) = 8/2 = 4              Binary = 0000 0100 \n
-
-F(x) = 2x+3 \n
-  Rate of change from 10 to 100 \n
-  (2*100 + 3) –(2*10 + 3) / (100 –10) = 180 / 90 = 2          Binary = 0000 0010 \n
+F(x) = x2 
+    <code>
+  Rate of change from 1 to 3 
+    <code>
+  (32  -12) / (3 -1) = (9 –1) / (3 –1) = 8/2 = 4              Binary = 0000 0100 
+    </code>
+  
+  
+F(x) = 2x+3 
+  Rate of change from 10 to 100 
+  (2*100 + 3) –(2*10 + 3) / (100 –10) = 180 / 90 = 2          Binary = 0000 0010 
 </code>
 
