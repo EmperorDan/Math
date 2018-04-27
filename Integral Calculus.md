@@ -8,3 +8,12 @@ Integral calculus is used to calculate the area under a curve. You start by fill
 
 
 After filling the space you work out the area of each rectangle that was able to fit. With this information you will be able to work out the area below the curve.     
+
+
+![](https://i.imgur.com/LTSEk3G.png)             
+
+
+
+
+
+![](https://i.imgur.com/6uDhBrr.png)
