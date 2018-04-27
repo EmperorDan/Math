@@ -8,11 +8,20 @@ Rate of change is common place in society. Examples of this include Mile per gal
 
 Examples:
 - F(x) = x2 
- - Rate of change from 1 to 3 
-  - (32  -12) / (3 -1) = (9 –1) / (3 –1) = 8/2 = 4              Binary = 0000 0100 
+
+
+Rate of change from 1 to 3 
+
+
+(32  -12) / (3 -1) = (9 –1) / (3 –1) = 8/2 = 4              Binary = 0000 0100 
+
 
 - F(x) = 2x+3 
- - Rate of change from 10 to 100 
-  - (2*100 + 3) –(2*10 + 3) / (100 –10) = 180 / 90 = 2          Hexadecimal = 2 
+
+
+Rate of change from 10 to 100 
+
+
+(2*100 + 3) –(2*10 + 3) / (100 –10) = 180 / 90 = 2          Hexadecimal = 2 
 
 
