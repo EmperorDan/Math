@@ -9,11 +9,15 @@ Integral calculus is used to calculate the area under a curve. You start by fill
 
 After filling the space you work out the area of each rectangle that was able to fit. With this information you will be able to work out the area below the curve.     
 
-
-![](https://i.imgur.com/LTSEk3G.png)             
-
+Main formulae:
 
 
+![](https://i.imgur.com/AP85cOF.png)
 
+
+![](https://i.imgur.com/LTSEk3G.png)   
+- '∫' is the simbol used to represent intergration.
+- 'a/b' this is to differentiate the two sides involved in the calculation
+- 'dx' represents the differential of the variable 'x', aswell as indicating that 'x' is the variable as intergration.
 
 ![](https://i.imgur.com/6uDhBrr.png)
