@@ -5,7 +5,7 @@ Rate of change is common place in society. Examples of this include Mile per gal
 # Average rate of change function
 ![](https://i.imgur.com/3iYZiVO.png)
 
-    <code>
+<code>
 Examples:
 F(x) = x2 
   Rate of change from 1 to 3 
